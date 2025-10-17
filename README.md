@@ -112,7 +112,7 @@ NotProceed
 1.  **Clone this repository**
 
     ```bash
-    git clone https://github.com/your-username/sum-of-evens.git
+    git clone https://github.com/adiaryaz/Sum-of-Even-Numbers.git
     cd sum-of-evens
     ```
 
